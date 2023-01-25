@@ -73,7 +73,7 @@ li{
     position: absolute;
     width: 850px; ;
     opacity: 0;
-    animation: change-img-anim 30s infinite;
+    animation: change-img-anim 10s infinite;
   }
   .image:nth-of-type(1) {
     animation: change-img-anim-first 30s infinite;
